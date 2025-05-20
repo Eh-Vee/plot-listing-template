@@ -1,0 +1,3 @@
+Plot Listing Template
+
+Plot List Bootstrap 5 template includes content tabs and carousel item lists. This template has 4 different HTML pages which can easily be converted as dynamic CMS pages. Homepage comes with a search functionality full header, content tabs, item listing, and 3-column footer. Category page has 5 content tabs. Listing page has multiple categories of carousel listing. Contact page features Maps area and contact form.
